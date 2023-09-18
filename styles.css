@@ -1,12 +1,26 @@
 /*  your css code here. If applicable */
 body{
 	background-color:#f5f5f5;
-	padding:30px;
+	width:100%;
+	padding:10px;
 }
-P{
+h1{
+	padding:10px;
+	background-color:#f5f5f5;
+	border:none;
+}
+div>p{
 	background-color:white;
-	padding:20px;
+	padding:20px
+}
+#d1{
 	display:flex;
-	justify-content:space-between;
-	text-align:rigth;
+
+}
+#d2{
+	display:flex;
+}
+#author{
+	font-style:italic;
+	text-align:right;
 }
