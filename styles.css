@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+	padding:30px;
+}
+P{
+	background-color:white;
+	padding:20px;
+	display:flex;
+	justify-content:space-between;
+	text-align:rigth;
+}
